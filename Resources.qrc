@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/amareloBala.png</file>
+        <file>images/amareloIcone.png</file>
+        <file>images/amareloTorre.png</file>
+        <file>images/azulBala.png</file>
+        <file>images/azulIcone.png</file>
+        <file>images/azulTorre.png</file>
+        <file>images/chefao.png</file>
+        <file>images/cianoBala.png</file>
+        <file>images/cianoIcone.png</file>
+        <file>images/cianoTorre.png</file>
+        <file>images/inimigo.png</file>
+        <file>images/iconeJoguinho.jpg</file>
+        <file>songs/music.mp3</file>
+        <file>songs/rightbuzzsfx.wav</file>
+        <file>songs/wrongbuzzsfx.wav</file>
+        <file>songs/dream_on.mp3</file>
+        <file>songs/receba.mp3</file>
+        <file>images/laranjaBala.png</file>
+        <file>images/laranjaIcone.png</file>
+        <file>images/laranjaTorre.png</file>
+    </qresource>
+</RCC>
